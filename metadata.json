@@ -1,0 +1,8 @@
+{
+  "name": "SafarBuddy — Intercity Seat Sharing & Ride Negotiation",
+  "description": "Free intercity seat-sharing platform with mandatory mobile OTP login, observed price negotiation chat, 1.5% platform fee checkout, privacy-gated contact reveal, live GPS tracking, SOS safety, route alerts, and mutual driver-rider reviews.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
